@@ -1,2 +1,8 @@
-# Curso_PIP_Python
-Curso de entornos virtuales y Python
+# Game Project
+
+Para correr el juego debes seguir las siguientes instrucciones en la terminal:
+
+```sh
+cd Game
+python main.py
+```
